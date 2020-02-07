@@ -5,7 +5,7 @@ Calculate your age,year,month,day,hour,min,sec
 pip install jdatetime
 # Start Script
 python Age.py
-Enter Birthday Year
+
 
 
 
